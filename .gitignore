@@ -1,5 +1,4 @@
 .idea
-docker-compose.yml
 /.srv/*
 /plugins/akismet
 /plugins/hello.php
